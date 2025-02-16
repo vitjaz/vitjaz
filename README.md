@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">✨ Creating bugs since 2020<br>📚 I'm currently learning Golang<br>🎯 Goals: solve business problems, make the world a better place, write clean, understandable and useful code<br>🎲 Fun fact: Neptune was the first planet to be found through mathematical predictions rather than telescopic location.<br>✨ The most unusual experience: creation of plugins for vs code that worked on the basis of artificial intelligence (analogs of github copilot)<br><br><br>Core stack:<br>- JS/TS<br>- Vue 3/ Nuxt 3<br>- React</p>
+<p align="left">✨ Сommercial development since 2020<br>📚 I'm currently learning Golang<br>🎯 Goals: solve business problems, make the world a better place, write clean, understandable and useful code<br>🎲 Fun fact: Neptune was the first planet to be found through mathematical predictions rather than telescopic location.<br>✨ The most unusual experience: creation of plugins for vs code that worked on the basis of artificial intelligence (analogs of github copilot)<br><br><br>Core stack:<br>- JS/TS<br>- Vue 3/ Nuxt 3<br>- React</p>
 
 ###
 
